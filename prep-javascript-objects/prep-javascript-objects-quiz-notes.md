@@ -5,8 +5,9 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
-
+  An object can hold any data type as well as methods.
 - Describe the syntax (structure) of object-literals in JavaScript.
+  Object are written with curly braces and contain properties written as name:value pairs separated by commas.
 
 ## Notes
 
